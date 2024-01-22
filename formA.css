@@ -1,0 +1,21 @@
+form{
+    background-color:maroon;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    color: white;
+}
+button{
+    background-color: darkkhaki;
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+}
+body{
+    background-color: brown;
+}
+label{
+    width: 130px;
+    display: inline-block;
+    color: white;
+}

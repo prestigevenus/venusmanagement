@@ -1,0 +1,18 @@
+form{
+    background-color: aquamarine;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 18px 10px limegreen;
+}
+
+legend{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+label{
+    display: inline-block;
+    width: 120px;
+}

@@ -1,0 +1,39 @@
+.heading1{
+    color: #e8091a;
+}
+.heading2{
+    font-style: italic;
+}
+#myheading{
+    font-size: 40px;
+}
+.eMobilis{
+    background-color: crimson;
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: ghostwhite;
+}
+.mytest{
+    display: flex;
+    background-color: darkgrey;
+    padding: 20px;
+}
+.paragraph1{
+    margin-left: 20px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: aqua;
+}
+.paragraph3{
+    background-color: darkkhaki;
+}
+.paragraph4{
+    background-color: coral;
+}

@@ -1,0 +1,28 @@
+form{
+    background-color:aqua;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+legend{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    background-color: deeppink;
+    text-align: center;
+}
+Body{
+    background-color: brown;
+}
+label{
+    display: inline-block;
+    width: 120px;
+}
+h1{
+    text-align: center;
+}
